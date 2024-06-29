@@ -1,2 +1,8 @@
 # CS320
 Software Test, Automation
+
+  Several methodologies, practices, and tools are implemented to ensure my code, program, or software is both functional and secure. Functional requirements are clearly defined, code reviews with peers take place to identify potential issues early, unit tests are conducted for correctness, and comprehensive documentation is conducted.
+
+  To interpret user needs and incorporate them into a program, interviews are conducted to understand user expectations and user stories and use cases that describe how users will interact with the software are implemented to understand specific needs and scenrarios. 
+
+   The approach I utilize to desigining software begins with clearly defining the problem the software aims to solve, identifying primary goals and objectives. Interviews and focus groups with stakeholders and potential users are conducted, then user stories and use cases are developed. Requirements are categorized into functional and non-functional requirements. Next, technical, economic, and operational feasibility is assessed to determine if they can be met wit the available resources. The overall system architecture is designed based on the requirements and then modules are designed to specify algorithms, data structures, and workflows. Coding begins based on the detailed design documents, following best practices to ensure code quality and maintainability. Unit, system and security testing is conducted to ensure components work as expected. Lastly, the software is deployed to the production environment and system performance is monitored and logged to detect issues. Updates are consistently released to fix bugs and improve the software, with user support provided to assist with any issues or questions. 
